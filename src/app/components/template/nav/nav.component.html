@@ -1,0 +1,17 @@
+<mat-sidenav-container class="container">   
+        <mat-sidenav class = "side-nav" mode="side" opened> 
+            <mat-nav-list>
+                <a (click)="navigateTo('')" mat-list-item routerLinkActive="active"> 
+                    <i class="material-icons">home</i>
+                    Home 
+                </a>
+                <a mat-list-item routerLinkActive="active" (click)="navigateTo('categorias')" > 
+                    <i class="material-icons">menu_book</i>
+                    Categorias
+                  </a>
+            </mat-nav-list>
+        </mat-sidenav>    
+    <mat-sidenav-content>
+        <router-outlet></router-outlet>
+    </mat-sidenav-content>
+</mat-sidenav-container>

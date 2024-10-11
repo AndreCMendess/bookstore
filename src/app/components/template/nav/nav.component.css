@@ -1,0 +1,15 @@
+
+.container{
+    height: 85%;
+    background-color: rgb(32, 32, 32);
+}
+
+.side-nav{
+    width: 150px;
+    background-color: rgb(119, 118, 118);
+}
+
+i{
+    padding-right: .6rem;
+    color: white;
+}

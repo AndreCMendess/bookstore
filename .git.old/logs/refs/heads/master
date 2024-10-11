@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 cbb17a0a927dfdf75f69dd9943f0c1e3360e928e AndreCMendess <andremendesdede2@gmail.com> 1728247818 -0300	commit (initial): commit inicial
+cbb17a0a927dfdf75f69dd9943f0c1e3360e928e 685fefb9037f843d66a3fc6b4cbe75b7d35a2b86 AndreCMendess <andremendesdede2@gmail.com> 1728248455 -0300	commit: instalando angular material para o projeto
+685fefb9037f843d66a3fc6b4cbe75b7d35a2b86 9ad5cbd09afad9811c714d1bae16e5684901107b AndreCMendess <andremendesdede2@gmail.com> 1728315029 -0300	commit: home implementado com rota
+9ad5cbd09afad9811c714d1bae16e5684901107b 583bd1f63445bd80faf08c90fd3cb7100c40415e AndreCMendess <andremendesdede2@gmail.com> 1728403520 -0300	commit: categorias-read implementado
+583bd1f63445bd80faf08c90fd3cb7100c40415e 872eacf17db88d9465049994949831cff98c8ba8 AndreCMendess <andremendesdede2@gmail.com> 1728406209 -0300	commit: ajustes no component-read
+872eacf17db88d9465049994949831cff98c8ba8 59e4cf5e9c0d8c1ba5b865b5d49d93a8dcfa913a AndreCMendess <andremendesdede2@gmail.com> 1728475295 -0300	commit: metodo create implementando para categoria
+59e4cf5e9c0d8c1ba5b865b5d49d93a8dcfa913a 40acac3132fbf09c8a5ff087a1babb3b91a4a929 AndreCMendess <andremendesdede2@gmail.com> 1728475480 -0300	commit: implementando botao cancelar da pagina create categoria
+40acac3132fbf09c8a5ff087a1babb3b91a4a929 b9a3a65150dc2e5bf83485ede3db738933425add AndreCMendess <andremendesdede2@gmail.com> 1728563147 -0300	commit: categoria delete implemenentada
+b9a3a65150dc2e5bf83485ede3db738933425add 9b3f101853847681668b9ff85a105f2a7664a0a4 AndreCMendess <andremendesdede2@gmail.com> 1728566342 -0300	commit: update para categoria
+9b3f101853847681668b9ff85a105f2a7664a0a4 026c8f40eeac59dc76ad43a71a03ab78a2e60490 AndreCMendess <andremendesdede2@gmail.com> 1728570583 -0300	commit: leitura de todos os livros por categoria implementada
+026c8f40eeac59dc76ad43a71a03ab78a2e60490 ae44e7cfcc4f23bd7d2da51c6fa152fb11b24a75 AndreCMendess <andremendesdede2@gmail.com> 1728582486 -0300	commit: implementando create de livro com validacao
+ae44e7cfcc4f23bd7d2da51c6fa152fb11b24a75 c3fe0ac29b307f9e4b5dcc572e194fe4466d663b AndreCMendess <andremendesdede2@gmail.com> 1728587943 -0300	commit: update para livro implementado
+c3fe0ac29b307f9e4b5dcc572e194fe4466d663b 8da9945a2748ef2f8e98c41adaa5020eed71512a AndreCMendess <andremendesdede2@gmail.com> 1728591701 -0300	commit: delete para livro implementado
+8da9945a2748ef2f8e98c41adaa5020eed71512a 9164657e90f3454ff335da04773d5d4a83280ac3 AndreCMendess <andremendesdede2@gmail.com> 1728609101 -0300	commit: read para livro implementado
